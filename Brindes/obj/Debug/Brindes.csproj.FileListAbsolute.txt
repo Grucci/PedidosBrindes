@@ -1,0 +1,9 @@
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\bin\Debug\Brindes.exe.config
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\bin\Debug\Brindes.exe
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\bin\Debug\Brindes.pdb
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\obj\Debug\Brindes.csprojResolveAssemblyReference.cache
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\obj\Debug\Brindes.Form1.resources
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\obj\Debug\Brindes.Properties.Resources.resources
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\obj\Debug\Brindes.csproj.GenerateResource.Cache
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\obj\Debug\Brindes.exe
+c:\users\felip\documents\visual studio 2017\Projects\PedidosBrindes\Brindes\obj\Debug\Brindes.pdb
